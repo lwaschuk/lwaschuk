@@ -3,7 +3,6 @@
 ### About Me
 - 📱 I have an university grade tracking app on the iOS App Store! Check it out here: [BetterGrades on iOS](https://apps.apple.com/ca/app/bettergrades/id6448234941)
 - 🃏 Dutch Blitz Score Tracker [BetterBlitz on iOS](https://apps.apple.com/us/app/betterblitz/id6738761472?uo=2)
-- 🌱 I’m currently working as a developer at [INVIDI Technologies](https://www.invidi.com/)
 - 🤝 I’m open to collaborate on innovative projects.
 
 [![Linkedin: lwaschuk](https://img.shields.io/badge/-lwaschuk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lwaschuk/)](https://www.linkedin.com/in/lwaschuk/)
