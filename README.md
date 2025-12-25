@@ -8,8 +8,8 @@
 [![Linkedin: lwaschuk](https://img.shields.io/badge/-lwaschuk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lwaschuk/)](https://www.linkedin.com/in/lwaschuk/)
 [![GitHub lwaschuk](https://img.shields.io/github/followers/lwaschuk?label=follow&style=social)](https://github.com/lwaschuk)
 
-
-
+### Experience 
+I'm a Software Engineer with experience in scalable backend solutions and modern Cloud Architecture. I specialize in Kotlin and AWS Cloud Infrastructure to design, build, and deploy impactful, reliable applications. My expertise spans the entire SDLC, DevOps, Security Best Practices, IaC, and SaaS model development. 
 
 ### Some of the projects I've completed...
 - [BetterGrades](https://apps.apple.com/ca/app/bettergrades/id6448234941) - BetterGrades is an grade tracking app I created at the tail end of university due to the annoyance of always entering my grades on websites to see my currect standing. The app persists your grades so you always know how your doing throughout terms. Available on iPhone, iPad, macOS!!!
